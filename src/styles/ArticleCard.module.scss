@@ -1,0 +1,17 @@
+.articleCard {
+  background: #fff;
+  padding: 1rem;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  h3 {
+    margin: 0 0 0.5rem 0;
+  }
+  p {
+    font-size: 0.95rem;
+    color: #555;
+  }
+  span {
+    font-size: 0.8rem;
+    color: #888;
+  }
+}

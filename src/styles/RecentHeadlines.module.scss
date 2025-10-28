@@ -1,0 +1,12 @@
+.recentHeadlines {
+  margin-top: 1rem;
+  h2 {
+    margin-bottom: 1rem;
+  }
+}
+
+.articlesGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 1rem;
+}

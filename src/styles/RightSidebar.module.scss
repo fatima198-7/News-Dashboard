@@ -1,0 +1,25 @@
+.rightSidebar {
+  flex: 1;
+  background: linear-gradient(90deg, black, #726a21);
+  color: white;
+  padding: 1rem;
+  border-radius: 10px;
+  height: 70vh;
+  h2 {
+    margin-top: 0;
+  }
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  li {
+    padding: 0.5rem 0;
+    border-bottom: 1px solid #eee;
+  }
+}
+
+@media screen and (max-width: 756) {
+  .rightSidebar {
+    height: fit-content;
+  }
+}
