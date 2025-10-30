@@ -34,4 +34,11 @@ export const articles = [
     author: "Lisa Brown",
     category: "Entertainment",
   },
+  {
+    id: 6,
+    title: "Lunch Breaks Box Office Records",
+    description: "A huge success in Working industry.",
+    author: "Mons Brown",
+    category: "work",
+  },
 ];
